@@ -1,1 +1,3 @@
-![image](/Users/camille/repo/projet_perso/ai_nmr/predict/predict.png)
+# TEST
+
+![image](../predict/predict.png)
