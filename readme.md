@@ -36,4 +36,12 @@ It is then necessary to create robust and efficient models in order to be able t
 
 That is to say, to be able to create models that will not give "false" or "inconsistent" outpouts depending on the input data.
 
-Translated with www.DeepL.com/Translator (free version)
+### Datasets
+* From NMR DataBase
+* From lab 
+### Repositories
+* Use of notbook to preform : analysis, programming  
+  * Untracked : for "local" testing
+  * tracked : for comment and collaboration
+
+* script.py : for training and "production"
